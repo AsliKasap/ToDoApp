@@ -1,0 +1,33 @@
+#header{
+    font-size: 35px;
+    color:#5f0dca
+}
+.card{
+    background-color: rgba(138, 62, 224, 0.644);
+}
+.card-header{
+    color: white;
+    font-size: 20px;
+}
+.form-control {
+    border: 1px solid #5f0dca;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #ae00ff;
+    border-color: #5f0dca;
+}
+.list-group-item-secondary {
+    color: #ffffff;
+    background-color: #dfafe76c;
+}
+.btn {
+    color: #f0f0f0;
+    background-color: #ae00ff;
+    border-color: #f3f3f3;
+
+}
+
+a{
+    color:white;
+}
